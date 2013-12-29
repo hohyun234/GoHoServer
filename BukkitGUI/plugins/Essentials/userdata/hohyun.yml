@@ -7,7 +7,7 @@ lastlocation:
   pitch: 83.73363
 timestamps:
   lastteleport: 1388332415274
-  login: 1388332408787
+  login: 1388337759862
   logout: 1388332395237
 logoutlocation:
   world: Building Game
@@ -17,7 +17,7 @@ logoutlocation:
   yaw: 186.78796
   pitch: 11.930943
 ipAddress: 127.0.0.1
-afk: true
+afk: false
 money: '999999371.0'
 godmode: false
 socialspy: true

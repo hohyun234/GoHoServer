@@ -1,124 +1,3 @@
-PizzaSpleef:
-  loaded: true
-  keepSpawnLoaded: true
-  environment: normal
-  chunkGenerator: ''
-  gamemode: SURVIVAL
-  forcedRespawn: false
-  rememberlastplayerpos: false
-  pvp: true
-  operators: []
-  deniedCreatures: []
-  holdWeather: false
-  hunger: true
-  formIce: true
-  formSnow: true
-  difficulty: PEACEFUL
-  reloadWhenEmpty: false
-  spawn:
-    world: PizzaSpleef
-    x: 0.0
-    y: 64.0
-    z: 0.0
-    yaw: 0.0
-    pitch: 0.0
-code:
-  loaded: false
-  keepSpawnLoaded: true
-  environment: normal
-  chunkGenerator: ''
-  gamemode: SURVIVAL
-  forcedRespawn: false
-  rememberlastplayerpos: false
-  pvp: true
-  operators: []
-  deniedCreatures: []
-  holdWeather: false
-  hunger: true
-  formIce: true
-  formSnow: true
-  difficulty: NORMAL
-  reloadWhenEmpty: false
-  spawn:
-    world: code
-    x: 0.0
-    y: 169.0
-    z: 944.0
-    yaw: 0.0
-    pitch: 0.0
-world_bgrooms:
-  loaded: true
-  keepSpawnLoaded: true
-  environment: flat
-  chunkGenerator: ''
-  gamemode: SURVIVAL
-  forcedRespawn: false
-  rememberlastplayerpos: false
-  pvp: true
-  operators: []
-  deniedCreatures: []
-  holdWeather: false
-  hunger: true
-  formIce: true
-  formSnow: true
-  difficulty: PEACEFUL
-  reloadWhenEmpty: false
-  spawn:
-    world: world_bgrooms
-    x: -1010.0
-    y: 4.0
-    z: 223.0
-    yaw: 0.0
-    pitch: 0.0
-San Andreas:
-  loaded: true
-  keepSpawnLoaded: true
-  environment: normal
-  chunkGenerator: ''
-  gamemode: SURVIVAL
-  forcedRespawn: false
-  rememberlastplayerpos: false
-  pvp: true
-  operators: []
-  deniedCreatures: []
-  holdWeather: false
-  hunger: true
-  formIce: true
-  formSnow: true
-  difficulty: NORMAL
-  reloadWhenEmpty: false
-  spawn:
-    world: San Andreas
-    x: 258.5
-    y: 50.5
-    z: 259.5
-    yaw: 0.0
-    pitch: 0.0
-world_the_end:
-  loaded: true
-  keepSpawnLoaded: true
-  environment: the_end
-  chunkGenerator: ''
-  gamemode: SURVIVAL
-  forcedRespawn: false
-  rememberlastplayerpos: false
-  pvp: true
-  defaultEndPortal: world
-  operators: []
-  deniedCreatures: []
-  holdWeather: false
-  hunger: true
-  formIce: true
-  formSnow: true
-  difficulty: EASY
-  reloadWhenEmpty: false
-  spawn:
-    world: world_the_end
-    x: 0.0
-    y: 50.0
-    z: 0.0
-    yaw: 0.0
-    pitch: 0.0
 parkour_flat:
   loaded: true
   keepSpawnLoaded: true
@@ -217,6 +96,30 @@ CTF-MAP_Sky:
     z: 196.58276882452347
     yaw: -90.6298828125
     pitch: -8.968709945678711
+PizzaSpleef:
+  loaded: true
+  keepSpawnLoaded: true
+  environment: normal
+  chunkGenerator: ''
+  gamemode: SURVIVAL
+  forcedRespawn: false
+  rememberlastplayerpos: false
+  pvp: true
+  operators: []
+  deniedCreatures: []
+  holdWeather: false
+  hunger: true
+  formIce: true
+  formSnow: true
+  difficulty: PEACEFUL
+  reloadWhenEmpty: false
+  spawn:
+    world: PizzaSpleef
+    x: 0.0
+    y: 64.0
+    z: 0.0
+    yaw: 0.0
+    pitch: 0.0
 world_nether:
   loaded: true
   keepSpawnLoaded: true
@@ -233,7 +136,7 @@ world_nether:
   hunger: true
   formIce: true
   formSnow: true
-  difficulty: EASY
+  difficulty: PEACEFUL
   reloadWhenEmpty: false
   spawn:
     world: world_nether
@@ -257,7 +160,7 @@ Building Game:
   hunger: true
   formIce: true
   formSnow: true
-  difficulty: NORMAL
+  difficulty: PEACEFUL
   reloadWhenEmpty: false
   spawn:
     world: Building Game
@@ -288,6 +191,30 @@ spleef_flat:
     x: 0.5
     y: 4.5
     z: 0.5
+    yaw: 0.0
+    pitch: 0.0
+code:
+  loaded: false
+  keepSpawnLoaded: true
+  environment: normal
+  chunkGenerator: ''
+  gamemode: SURVIVAL
+  forcedRespawn: false
+  rememberlastplayerpos: false
+  pvp: true
+  operators: []
+  deniedCreatures: []
+  holdWeather: false
+  hunger: true
+  formIce: true
+  formSnow: true
+  difficulty: NORMAL
+  reloadWhenEmpty: false
+  spawn:
+    world: code
+    x: 0.0
+    y: 169.0
+    z: 944.0
     yaw: 0.0
     pitch: 0.0
 survival:
@@ -332,10 +259,83 @@ world:
   hunger: true
   formIce: true
   formSnow: true
-  difficulty: EASY
+  difficulty: PEACEFUL
   reloadWhenEmpty: false
   spawn:
     world: world
+    x: 258.5
+    y: 50.5
+    z: 259.5
+    yaw: 0.0
+    pitch: 0.0
+world_bgrooms:
+  loaded: true
+  keepSpawnLoaded: true
+  environment: flat
+  chunkGenerator: ''
+  gamemode: SURVIVAL
+  forcedRespawn: false
+  rememberlastplayerpos: false
+  pvp: true
+  operators: []
+  deniedCreatures: []
+  holdWeather: false
+  hunger: true
+  formIce: true
+  formSnow: true
+  difficulty: PEACEFUL
+  reloadWhenEmpty: false
+  spawn:
+    world: world_bgrooms
+    x: -1010.0
+    y: 4.0
+    z: 223.0
+    yaw: 0.0
+    pitch: 0.0
+world_the_end:
+  loaded: true
+  keepSpawnLoaded: true
+  environment: the_end
+  chunkGenerator: ''
+  gamemode: SURVIVAL
+  forcedRespawn: false
+  rememberlastplayerpos: false
+  pvp: true
+  defaultEndPortal: world
+  operators: []
+  deniedCreatures: []
+  holdWeather: false
+  hunger: true
+  formIce: true
+  formSnow: true
+  difficulty: PEACEFUL
+  reloadWhenEmpty: false
+  spawn:
+    world: world_the_end
+    x: 0.0
+    y: 50.0
+    z: 0.0
+    yaw: 0.0
+    pitch: 0.0
+San Andreas:
+  loaded: true
+  keepSpawnLoaded: true
+  environment: normal
+  chunkGenerator: ''
+  gamemode: SURVIVAL
+  forcedRespawn: false
+  rememberlastplayerpos: false
+  pvp: true
+  operators: []
+  deniedCreatures: []
+  holdWeather: false
+  hunger: true
+  formIce: true
+  formSnow: true
+  difficulty: PEACEFUL
+  reloadWhenEmpty: false
+  spawn:
+    world: San Andreas
     x: 258.5
     y: 50.5
     z: 259.5
