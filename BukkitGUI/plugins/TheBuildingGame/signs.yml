@@ -1,0 +1,32 @@
+world:
+  '333':
+    '174':
+      '66':
+        arena: 3
+        block:
+          type: WALL_SIGN
+          facing: WEST
+    '175':
+      '66':
+        arena: 4
+        block:
+          type: WALL_SIGN
+          facing: WEST
+    '173':
+      '66':
+        arena: 2
+        block:
+          type: WALL_SIGN
+          facing: WEST
+    '172':
+      '66':
+        arena: 1
+        block:
+          type: WALL_SIGN
+          facing: WEST
+    '176':
+      '66':
+        arena: 5
+        block:
+          type: WALL_SIGN
+          facing: WEST

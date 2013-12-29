@@ -1,0 +1,86 @@
+version: 0
+sg-system:
+  arenano: 2
+  arenas:
+    '1':
+      world: Chernobyl
+      x1: 258
+      y1: 277
+      z1: 286
+      x2: -475
+      y2: 0
+      z2: -317
+      enabled: true
+    '2':
+      world: San Andreas
+      x1: 2759
+      y1: 259
+      z1: 2033
+      x2: 2210
+      y2: 0
+      z2: 1329
+      enabled: true
+  lobby:
+    sign:
+      set: true
+    signno: 6
+    signs:
+      '1':
+        id: 1
+        world: world
+        x1: 183
+        y1: 67
+        z1: 177
+        x2: 183
+        y2: 65
+        z2: 171
+      '2':
+        id: 1
+        world: world
+        x1: 183
+        y1: 67
+        z1: 177
+        x2: 183
+        y2: 65
+        z2: 171
+      '3':
+        id: 1
+        world: world
+        x1: 183
+        y1: 67
+        z1: 176
+        x2: 183
+        y2: 65
+        z2: 172
+      '4':
+        id: 2
+        world: world
+        x1: 183
+        y1: 66
+        z1: 176
+        x2: 183
+        y2: 66
+        z2: 172
+      '5':
+        id: 1
+        world: world
+        x1: 183
+        y1: 67
+        z1: 176
+        x2: 183
+        y2: 67
+        z2: 172
+      '6':
+        id: 1
+        world: world
+        x1: 183
+        y1: 67
+        z1: 176
+        x2: 183
+        y2: 67
+        z2: 172
+    spawn:
+      world: world
+      x: 188
+      y: 65
+      z: 174

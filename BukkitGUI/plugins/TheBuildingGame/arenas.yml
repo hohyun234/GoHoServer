@@ -1,0 +1,20 @@
+'1':
+  enabled: true
+  maxPlayers: 3
+  roundTime: 300
+'2':
+  enabled: true
+  maxPlayers: 5
+  roundTime: 300
+'3':
+  enabled: true
+  maxPlayers: 7
+  roundTime: 300
+'4':
+  enabled: true
+  maxPlayers: 9
+  roundTime: 300
+'5':
+  enabled: true
+  maxPlayers: 11
+  roundTime: 300

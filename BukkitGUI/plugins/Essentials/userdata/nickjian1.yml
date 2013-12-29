@@ -1,0 +1,27 @@
+timestamps:
+  login: 1387564425767
+  lastteleport: 1387564209582
+ipAddress: 99.237.187.18
+lastlocation:
+  world: world
+  x: 258.87734606033433
+  y: 50.0
+  z: 246.6181602488373
+  yaw: -163.25131
+  pitch: -0.7978554
+nickname: Jian
+homes:
+  home:
+    world: world
+    x: 245.55226026653446
+    y: 60.0
+    z: 195.43961467142188
+    yaw: 10.793701
+    pitch: -56.760452
+logoutlocation:
+  world: world
+  x: 187.4468432176306
+  y: 65.0
+  z: 178.74270925287843
+  yaw: 220.80823
+  pitch: 15.711563

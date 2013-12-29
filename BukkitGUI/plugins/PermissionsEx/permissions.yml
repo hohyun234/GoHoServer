@@ -1,0 +1,32 @@
+groups:
+  default:
+    default: true
+    permissions:
+    - essentials.msg
+    - permission.nodrop
+    - permission.noinvdrop
+    - thebuildinggame.game.play
+    - essentials.warp
+    - essentials.warps.*
+    - essentials.help
+    - sg.arena.join.1
+    - sg.arena.join.*
+    - sg.arena.spectate
+    - essentials.spawn
+    - CTF.
+  admin:
+    default: false
+    permissions:
+    - '*'
+users:
+  Hohyun:
+    group:
+    - admin
+  Netdex:
+    group:
+    - admin
+    permissions:
+    - lockette.admin.*
+  xXR3FL3Xx:
+    permissions:
+    - thebuildinggame.game.play

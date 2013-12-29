@@ -1,0 +1,30 @@
+timestamps:
+  lastteleport: 1388332845453
+  login: 1388336777638
+  logout: 1388336750237
+  kits:
+    tools: 1387767668696
+    dtools: 1387729394944
+    notch: 1387729464493
+lastlocation:
+  world: world
+  x: 258.30000001192093
+  y: 50.0
+  z: 259.30000001192093
+  yaw: -212.69154
+  pitch: 59.133633
+ipAddress: 174.112.77.24
+logoutlocation:
+  world: parkour_flat
+  x: 9.699999988079083
+  y: 7.14543379707845
+  z: 28.84143203450667
+  yaw: -128.55591
+  pitch: 57.599854
+afk: false
+nickname: Gordon
+money: '999691334.0'
+powertools: {}
+godmode: false
+socialspy: true
+teleportenabled: true

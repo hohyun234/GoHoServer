@@ -1,0 +1,20 @@
+timestamps:
+  login: 1388174271835
+  logout: 1388175884235
+  lastteleport: 1388175568756
+ipAddress: 38.64.137.58
+lastlocation:
+  world: world
+  x: 246.56840065515658
+  y: 50.0
+  z: 254.91506972851911
+  yaw: -1.9415588
+  pitch: 37.533623
+logoutlocation:
+  world: world
+  x: 259.6567084947235
+  y: 60.0
+  z: 223.69999998807907
+  yaw: 359.99866
+  pitch: 19.500057
+nickname: Jonathan

@@ -1,0 +1,24 @@
+lastlocation:
+  world: world
+  x: 258.5
+  y: 50.534
+  z: 259.5
+  yaw: 9.008469
+  pitch: 83.73363
+timestamps:
+  lastteleport: 1388332415274
+  login: 1388332408787
+  logout: 1388332395237
+logoutlocation:
+  world: Building Game
+  x: 18.826176942547097
+  y: 77.0098561153284
+  z: 220.7322867465501
+  yaw: 186.78796
+  pitch: 11.930943
+ipAddress: 127.0.0.1
+afk: true
+money: '999999371.0'
+godmode: false
+socialspy: true
+powertools: {}

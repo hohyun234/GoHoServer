@@ -1,0 +1,44 @@
+Version: 1
+Seed: -231030807
+Residences:
+  SPAWN:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: 339
+        Y1: 172
+        Z1: 266
+        X2: 174
+        Y2: 41
+        Z2: 81
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        netdex:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: true
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: true
+        use: true
+        creeper: false
+        flow: true
+        build: false
+      Owner: Netdex
+      World: world
+    StoredMoney: 0

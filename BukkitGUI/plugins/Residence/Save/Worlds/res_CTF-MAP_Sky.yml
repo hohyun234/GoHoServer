@@ -1,0 +1,90 @@
+Version: 1
+Seed: -5881021296535731886
+Residences:
+  CTF:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: -1354
+        Y1: 255
+        Z1: 231
+        X2: -1417
+        Y2: 0
+        Z2: 152
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        netdex:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: true
+        firespread: false
+        container: false
+        tnt: true
+        ignite: false
+        piston: false
+        use: true
+        creeper: false
+        flow: false
+        build: false
+        fireball: true
+        note: true
+        lever: true
+        button: true
+        diode: true
+      Owner: Netdex
+      World: CTF-MAP_Sky
+    StoredMoney: 0
+  CTFSPAWN:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: -1420
+        Y1: 255
+        Z1: 220
+        X2: -1463
+        Y2: 0
+        Z2: 169
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        netdex:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: true
+        creeper: false
+        flow: false
+        build: false
+      Owner: Netdex
+      World: CTF-MAP_Sky
+    StoredMoney: 0

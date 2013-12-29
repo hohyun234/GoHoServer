@@ -1,0 +1,44 @@
+Version: 1
+Seed: 1110243258
+Residences:
+  survivalspawn:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: -68
+        Y1: 255
+        Z1: -15
+        X2: -74
+        Y2: 0
+        Z2: -21
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        hohyun:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+      Owner: Hohyun
+      World: survival
+    StoredMoney: 0

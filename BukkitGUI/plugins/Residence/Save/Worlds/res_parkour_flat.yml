@@ -1,0 +1,44 @@
+Version: 1
+Seed: -2997438466935588882
+Residences:
+  PARKOUR:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: 12
+        Y1: 255
+        Z1: 23
+        X2: -12
+        Y2: 0
+        Z2: -1
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        netdex:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: true
+        use: true
+        creeper: false
+        flow: true
+        build: false
+      Owner: Netdex
+      World: parkour_flat
+    StoredMoney: 0

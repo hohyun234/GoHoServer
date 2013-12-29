@@ -1,0 +1,78 @@
+2013-12-22 09:49:36 Starting plugin version 1.4!
+2013-12-22 10:06:36 Stopping plugin!
+2013-12-22 10:06:38 Starting plugin version 1.4!
+2013-12-22 10:14:12 Stopping plugin!
+2013-12-22 10:14:15 Starting plugin version 1.4!
+2013-12-22 10:17:01 Stopping plugin!
+2013-12-22 10:17:05 Starting plugin version 1.4!
+2013-12-22 10:26:13 Starting plugin version 1.4!
+2013-12-22 10:49:11 Stopping plugin!
+2013-12-22 10:49:14 Starting plugin version 1.4!
+2013-12-22 11:12:39 Stopping plugin!
+2013-12-22 11:12:42 Starting plugin version 1.4!
+2013-12-22 11:14:11 Stopping plugin!
+2013-12-22 11:14:17 Starting plugin version 1.4!
+2013-12-22 11:16:16 Stopping plugin!
+2013-12-22 11:16:53 Starting plugin version 1.4!
+2013-12-22 11:21:39 Stopping plugin!
+2013-12-22 11:21:54 Starting plugin version 1.4!
+2013-12-22 11:29:13 Stopping plugin!
+2013-12-22 11:29:15 Starting plugin version 1.4!
+2013-12-22 11:31:21 Stopping plugin!
+2013-12-22 11:31:27 Starting plugin version 1.4!
+2013-12-22 11:39:58 Stopping plugin!
+2013-12-22 11:41:00 Starting plugin version 1.4!
+2013-12-22 12:58:04 Stopping plugin!
+2013-12-22 12:58:10 Starting plugin version 1.4!
+2013-12-22 13:05:55 Stopping plugin!
+2013-12-22 13:05:58 Starting plugin version 1.4!
+2013-12-22 13:39:20 Stopping plugin!
+2013-12-22 13:39:23 Starting plugin version 1.4!
+2013-12-22 13:52:02 Stopping plugin!
+2013-12-22 13:53:03 Starting plugin version 1.4!
+2013-12-22 13:56:43 Stopping plugin!
+2013-12-22 13:57:29 Starting plugin version 1.4!
+2013-12-22 15:10:19 Stopping plugin!
+2013-12-22 17:53:11 Starting plugin version 1.4!
+2013-12-22 17:57:22 Stopping plugin!
+2013-12-22 17:57:25 Starting plugin version 1.4!
+2013-12-22 22:07:30 Stopping plugin!
+2013-12-22 22:07:45 Starting plugin version 1.4!
+2013-12-22 22:10:37 Stopping plugin!
+2013-12-22 22:10:48 Starting plugin version 1.4!
+2013-12-22 23:45:12 Stopping plugin!
+2013-12-22 23:45:28 Starting plugin version 1.4!
+2013-12-22 23:52:23 Stopping plugin!
+2013-12-23 09:14:43 Starting plugin version 1.4!
+2013-12-23 11:50:01 Stopping plugin!
+2013-12-23 11:59:42 Starting plugin version 1.4!
+2013-12-23 12:48:36 Stopping plugin!
+2013-12-23 18:06:32 Starting plugin version 1.4!
+2013-12-23 18:25:28 Stopping plugin!
+2013-12-23 18:25:33 Starting plugin version 1.4!
+2013-12-23 22:46:10 Stopping plugin!
+2013-12-24 11:30:25 Starting plugin version 1.4!
+2013-12-24 20:42:23 Stopping plugin!
+2013-12-25 10:35:45 Starting plugin version 1.4!
+2013-12-25 10:42:41 Stopping plugin!
+2013-12-25 10:42:46 Starting plugin version 1.4!
+2013-12-25 10:44:06 Stopping plugin!
+2013-12-25 18:36:45 Starting plugin version 1.4!
+2013-12-25 19:39:14 Stopping plugin!
+2013-12-26 10:55:17 Starting plugin version 1.4!
+2013-12-26 11:02:34 Stopping plugin!
+2013-12-26 11:02:39 Starting plugin version 1.4!
+2013-12-26 11:15:59 Stopping plugin!
+2013-12-26 20:33:09 Starting plugin version 1.4!
+2013-12-27 12:56:06 Starting plugin version 1.4!
+2013-12-27 12:57:00 Stopping plugin!
+2013-12-27 12:57:35 Starting plugin version 1.4!
+2013-12-27 13:30:37 Stopping plugin!
+2013-12-27 14:01:02 Starting plugin version 1.4!
+2013-12-27 14:13:21 Stopping plugin!
+2013-12-27 14:13:27 Starting plugin version 1.4!
+2013-12-27 18:03:16 Stopping plugin!
+2013-12-28 10:22:07 Starting plugin version 1.4!
+2013-12-28 10:51:18 Stopping plugin!
+2013-12-29 10:41:38 Starting plugin version 1.4!
+2013-12-29 12:10:03 Stopping plugin!

@@ -1,0 +1,20 @@
+timestamps:
+  login: 1388181643980
+  logout: 1388182432129
+  lastteleport: 1388180137894
+ipAddress: 192.0.186.238
+lastlocation:
+  world: CTF-MAP_Sky
+  x: -1403.9581506265586
+  y: 11.575345559490394
+  z: 208.25943291310634
+  yaw: 136.62274
+  pitch: 6.4862213
+nickname: Daniel
+logoutlocation:
+  world: CTF-MAP_Sky
+  x: -1447.7756186040456
+  y: 4.0
+  z: 195.66246279546755
+  yaw: 146.52715
+  pitch: 32.716084

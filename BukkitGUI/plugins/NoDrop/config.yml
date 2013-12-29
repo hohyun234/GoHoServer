@@ -1,0 +1,4 @@
+noinvdrop: true
+nodrop: true
+path:
+  world: false
