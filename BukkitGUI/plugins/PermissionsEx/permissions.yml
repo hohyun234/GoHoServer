@@ -2,6 +2,7 @@ groups:
   default:
     default: true
     permissions:
+    - prophunt.prophunt
     - essentials.msg
     - permission.nodrop
     - permission.noinvdrop
@@ -14,6 +15,9 @@ groups:
     - sg.arena.spectate
     - essentials.spawn
     - CTF.
+    - prophunt.prophunt
+    - heavyspleef.sign.join
+    - heavyspleef.sign.leave
   admin:
     default: false
     permissions:

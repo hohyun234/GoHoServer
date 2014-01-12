@@ -1,7 +1,7 @@
 timestamps:
-  login: 1387818150234
+  login: 1389461719534
   lastteleport: 1387819264738
-  logout: 1387819659483
+  logout: 1389461721360
 ipAddress: 192.0.232.163
 lastlocation:
   world: world
@@ -12,8 +12,8 @@ lastlocation:
   pitch: 34.08363
 logoutlocation:
   world: parkour_flat
-  x: -7.246385873715397
-  y: 3.0
-  z: 7.402321317757467
-  yaw: -144.59973
-  pitch: 18.750013
+  x: 9.414843047363188
+  y: 4.0
+  z: 1.1299345970594876
+  yaw: 86.51922
+  pitch: 9.805463

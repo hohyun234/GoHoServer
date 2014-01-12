@@ -1,4 +1,6 @@
 "toParkour" "world" 203 67 220 90.0 0.0
+"toPropHunt" "world" 211 66 119 180.0 0.0
+"toflat" "world" 305 66 118 180.0 0.0
 "toCTF" "world" 304 66 229 0.0 0.0
-"toCTF2" "world" 264 45 259 270.0 0.0
+"toCTF2" "world" 265 45 259 270.0 0.0
 "toSurvival" "world" 258 66 97 180.0 0.0

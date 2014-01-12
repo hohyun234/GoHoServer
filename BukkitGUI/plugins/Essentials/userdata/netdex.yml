@@ -1,30 +1,31 @@
 timestamps:
-  lastteleport: 1388337879468
-  login: 1388337804443
-  logout: 1388336750237
+  lastteleport: 1389484632137
+  login: 1389485173482
+  logout: 1389485169133
   kits:
     tools: 1387767668696
+    firework: 1389484981395
     dtools: 1387729394944
     notch: 1387729464493
 lastlocation:
-  world: parkour_flat
-  x: -15.085495409903524
-  y: 87.8621510713716
-  z: 27.398269188572034
-  yaw: 123.5939
-  pitch: 33.749973
-ipAddress: 174.112.77.24
+  world: world
+  x: 252.49522531964857
+  y: 50.0
+  z: 259.32413008495206
+  yaw: 197.18402
+  pitch: 15.450144
+ipAddress: 67.204.52.228
 logoutlocation:
-  world: parkour_flat
-  x: 8.755006999832355
-  y: 7.14543379707845
-  z: 30.722619663386535
-  yaw: -146.25586
-  pitch: 23.55
+  world: world
+  x: 271.68722052886494
+  y: 131.7750728822488
+  z: 215.9885471448224
+  yaw: -248.01631
+  pitch: 90.0
 afk: false
-nickname: Gordon
+nickname: §4§l§n§oGordon
 money: '999691334.0'
 powertools: {}
-godmode: false
+godmode: true
 socialspy: true
 teleportenabled: true

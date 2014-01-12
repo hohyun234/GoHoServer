@@ -1,20 +1,20 @@
 timestamps:
-  login: 1388333692237
-  logout: 1388333697737
-  lastteleport: 1388245116073
+  login: 1389484108932
+  logout: 1389484284132
+  lastteleport: 1389484124708
 ipAddress: 99.245.5.247
 lastlocation:
   world: world
-  x: 258.5
+  x: 252.5
   y: 50.0
   z: 259.5
-  yaw: -184.19153
-  pitch: 34.08363
+  yaw: 180.53403
+  pitch: 2.8501441
 nickname: Raymond
 logoutlocation:
-  world: world
-  x: 232.83392241906833
-  y: 60.0
-  z: 164.62865513150655
-  yaw: -6.89093
+  world: survival
+  x: -40.19564496418391
+  y: 94.7531999805212
+  z: -38.69999998807907
+  yaw: -257.68005
   pitch: 90.0

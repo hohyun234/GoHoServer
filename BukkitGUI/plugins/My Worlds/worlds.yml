@@ -4,7 +4,7 @@ parkour_flat:
   environment: flat
   chunkGenerator: ''
   gamemode: SURVIVAL
-  lockedtime: 24000
+  lockedtime: 288000
   forcedRespawn: false
   rememberlastplayerpos: false
   pvp: true
@@ -96,12 +96,13 @@ CTF-MAP_Sky:
     z: 196.58276882452347
     yaw: -90.6298828125
     pitch: -8.968709945678711
-PizzaSpleef:
+flat:
   loaded: true
   keepSpawnLoaded: true
-  environment: normal
+  environment: flat
   chunkGenerator: ''
   gamemode: SURVIVAL
+  lockedtime: 54182
   forcedRespawn: false
   rememberlastplayerpos: false
   pvp: true
@@ -114,10 +115,10 @@ PizzaSpleef:
   difficulty: PEACEFUL
   reloadWhenEmpty: false
   spawn:
-    world: PizzaSpleef
-    x: 0.0
-    y: 64.0
-    z: 0.0
+    world: flat
+    x: 0.5
+    y: 4.5
+    z: 0.5
     yaw: 0.0
     pitch: 0.0
 world_nether:
@@ -136,85 +137,13 @@ world_nether:
   hunger: true
   formIce: true
   formSnow: true
-  difficulty: PEACEFUL
+  difficulty: HARD
   reloadWhenEmpty: false
   spawn:
     world: world_nether
     x: 0.0
     y: 64.0
     z: 0.0
-    yaw: 0.0
-    pitch: 0.0
-Building Game:
-  loaded: true
-  keepSpawnLoaded: true
-  environment: normal
-  chunkGenerator: ''
-  gamemode: SURVIVAL
-  forcedRespawn: false
-  rememberlastplayerpos: false
-  pvp: true
-  operators: []
-  deniedCreatures: []
-  holdWeather: false
-  hunger: true
-  formIce: true
-  formSnow: true
-  difficulty: PEACEFUL
-  reloadWhenEmpty: false
-  spawn:
-    world: Building Game
-    x: 47.0
-    y: 64.0
-    z: 217.0
-    yaw: 0.0
-    pitch: 0.0
-spleef_flat:
-  loaded: false
-  keepSpawnLoaded: true
-  environment: flat
-  chunkGenerator: ''
-  gamemode: SURVIVAL
-  forcedRespawn: false
-  rememberlastplayerpos: false
-  pvp: true
-  operators: []
-  deniedCreatures: []
-  holdWeather: false
-  hunger: true
-  formIce: true
-  formSnow: true
-  difficulty: NORMAL
-  reloadWhenEmpty: false
-  spawn:
-    world: spleef_flat
-    x: 0.5
-    y: 4.5
-    z: 0.5
-    yaw: 0.0
-    pitch: 0.0
-code:
-  loaded: false
-  keepSpawnLoaded: true
-  environment: normal
-  chunkGenerator: ''
-  gamemode: SURVIVAL
-  forcedRespawn: false
-  rememberlastplayerpos: false
-  pvp: true
-  operators: []
-  deniedCreatures: []
-  holdWeather: false
-  hunger: true
-  formIce: true
-  formSnow: true
-  difficulty: NORMAL
-  reloadWhenEmpty: false
-  spawn:
-    world: code
-    x: 0.0
-    y: 169.0
-    z: 944.0
     yaw: 0.0
     pitch: 0.0
 survival:
@@ -247,7 +176,7 @@ world:
   environment: normal
   chunkGenerator: ''
   gamemode: SURVIVAL
-  lockedtime: 24000
+  lockedtime: 2958000
   forcedRespawn: false
   rememberlastplayerpos: false
   pvp: true
@@ -259,13 +188,13 @@ world:
   hunger: true
   formIce: true
   formSnow: true
-  difficulty: PEACEFUL
+  difficulty: HARD
   reloadWhenEmpty: false
   spawn:
     world: world
-    x: 258.5
-    y: 50.5
-    z: 259.5
+    x: 252.0
+    y: 50.0
+    z: 259.0
     yaw: 0.0
     pitch: 0.0
 world_bgrooms:
@@ -292,31 +221,6 @@ world_bgrooms:
     z: 223.0
     yaw: 0.0
     pitch: 0.0
-world_the_end:
-  loaded: true
-  keepSpawnLoaded: true
-  environment: the_end
-  chunkGenerator: ''
-  gamemode: SURVIVAL
-  forcedRespawn: false
-  rememberlastplayerpos: false
-  pvp: true
-  defaultEndPortal: world
-  operators: []
-  deniedCreatures: []
-  holdWeather: false
-  hunger: true
-  formIce: true
-  formSnow: true
-  difficulty: PEACEFUL
-  reloadWhenEmpty: false
-  spawn:
-    world: world_the_end
-    x: 0.0
-    y: 50.0
-    z: 0.0
-    yaw: 0.0
-    pitch: 0.0
 San Andreas:
   loaded: true
   keepSpawnLoaded: true
@@ -339,6 +243,31 @@ San Andreas:
     x: 258.5
     y: 50.5
     z: 259.5
+    yaw: 0.0
+    pitch: 0.0
+world_the_end:
+  loaded: true
+  keepSpawnLoaded: true
+  environment: the_end
+  chunkGenerator: ''
+  gamemode: SURVIVAL
+  forcedRespawn: false
+  rememberlastplayerpos: false
+  pvp: true
+  defaultEndPortal: world
+  operators: []
+  deniedCreatures: []
+  holdWeather: false
+  hunger: true
+  formIce: true
+  formSnow: true
+  difficulty: HARD
+  reloadWhenEmpty: false
+  spawn:
+    world: world_the_end
+    x: 0.0
+    y: 50.0
+    z: 0.0
     yaw: 0.0
     pitch: 0.0
 

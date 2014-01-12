@@ -1,0 +1,16 @@
+# 
+# Translate the scoreboard?
+use-translate: false
+Translate-Words:
+  Players: Players
+  Seekers: Seekers
+  Hiders: Hiders
+  Spectators: Spectators
+  Time-Left: TimeLeft
+  Starting-In: Starting in
+  Solid-Time: SolidTime
+  Solid: SOLID
+Disguise-Translations:
+  WOODEN_DOOR: Wooden Door
+  SANDSTONE_STAIRS: Sandstone Stairs
+  NOTE_BLOCK: Note Block

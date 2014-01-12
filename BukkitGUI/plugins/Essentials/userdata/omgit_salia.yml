@@ -1,0 +1,20 @@
+timestamps:
+  login: 1388883099552
+  logout: 1388883107653
+ipAddress: 135.0.83.189
+lastlocation:
+  world: world
+  x: 250.56769295690017
+  y: 50.0
+  z: 254.87291722081724
+  yaw: 4.134404
+  pitch: 10.650048
+logoutlocation:
+  world: parkour_flat
+  x: 8.616956343425025
+  y: 4.0
+  z: 0.30000001192092896
+  yaw: -336.5998
+  pitch: 14.550002
+ban:
+  timeout: 0

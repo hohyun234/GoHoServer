@@ -1,0 +1,20 @@
+timestamps:
+  login: 1389479725288
+  logout: 1389483233941
+  lastteleport: 1389482996196
+ipAddress: 99.237.146.235
+lastlocation:
+  world: world
+  x: 252.49522531964857
+  y: 50.0
+  z: 259.32413008495206
+  yaw: 180.53403
+  pitch: 2.8501441
+logoutlocation:
+  world: world
+  x: 258.5
+  y: 50.0
+  z: 250.5
+  yaw: 180.53403
+  pitch: 2.8501441
+nickname: Jack

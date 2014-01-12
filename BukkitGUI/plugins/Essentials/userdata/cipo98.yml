@@ -1,0 +1,19 @@
+timestamps:
+  login: 1388883493454
+  logout: 1388869672600
+  lastteleport: 1388885813427
+ipAddress: 216.58.121.119
+lastlocation:
+  world: world
+  x: 252.5
+  y: 50.0
+  z: 259.5
+  yaw: 12.984364
+  pitch: 3.7500486
+logoutlocation:
+  world: CTF-MAP_Sky
+  x: -1450.699999988079
+  y: 4.0
+  z: 198.69999998807907
+  yaw: 48.57017
+  pitch: 90.0

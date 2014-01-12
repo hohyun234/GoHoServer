@@ -1,20 +1,21 @@
 timestamps:
-  login: 1387569162594
-  logout: 1387569539095
+  login: 1389470635508
+  logout: 1389470859158
+  lastteleport: 1389470387463
 ipAddress: 135.0.147.70
 lastlocation:
   world: world
-  x: 184.5912688702577
-  y: 65.0
-  z: 176.72158421292946
-  yaw: -269.49088
-  pitch: -25.843779
+  x: 252.49522531964857
+  y: 50.0
+  z: 259.32413008495206
+  yaw: 186.68402
+  pitch: 0.9001442
 nickname: Angela
 afk: false
 logoutlocation:
-  world: world
-  x: 258.3691916054724
-  y: 51.0
-  z: 243.68861077420607
-  yaw: -180.54031
-  pitch: -12.793802
+  world: parkour_flat
+  x: -10.563682858113596
+  y: 3.0
+  z: 7.30502311357006
+  yaw: -46.04959
+  pitch: 29.249945
